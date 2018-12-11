@@ -1,0 +1,11 @@
+{
+    "env": "development",
+    "development": {
+        "port": 8001,
+        "logger": true
+    },
+    "production": {
+        "port": 8080,
+        "logger": false
+    }
+}
